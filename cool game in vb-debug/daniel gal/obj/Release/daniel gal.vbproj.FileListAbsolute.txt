@@ -1,0 +1,37 @@
+E:\daniel gal\daniel gal\bin\Release\daniel gal.exe.config
+E:\daniel gal\daniel gal\bin\Release\daniel gal.exe
+E:\daniel gal\daniel gal\bin\Release\daniel gal.pdb
+E:\daniel gal\daniel gal\bin\Release\daniel gal.xml
+E:\daniel gal\daniel gal\obj\Release\daniel_gal.Form1.resources
+E:\daniel gal\daniel gal\obj\Release\daniel_gal.Resources.resources
+E:\daniel gal\daniel gal\obj\Release\daniel gal.vbproj.GenerateResource.cache
+E:\daniel gal\daniel gal\obj\Release\daniel gal.vbproj.CoreCompileInputs.cache
+E:\daniel gal\daniel gal\obj\Release\daniel gal.exe
+E:\daniel gal\daniel gal\obj\Release\daniel gal.xml
+E:\daniel gal\daniel gal\obj\Release\daniel gal.pdb
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Release\daniel gal.exe.config
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Release\daniel gal.exe
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Release\daniel gal.pdb
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Release\daniel gal.xml
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel_gal.Form1.resources
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel_gal.gameover.resources
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel_gal.Resources.resources
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel gal.vbproj.GenerateResource.cache
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel gal.vbproj.CoreCompileInputs.cache
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel gal.exe
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel gal.xml
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel gal.pdb
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Release\daniel_gal.win.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Release\daniel gal.exe.config
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Release\daniel gal.exe
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Release\daniel gal.pdb
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Release\daniel gal.xml
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel_gal.Form1.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel_gal.gameover.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel_gal.Resources.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel_gal.win.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel gal.vbproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel gal.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel gal.exe
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel gal.xml
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Release\daniel gal.pdb

@@ -1,0 +1,89 @@
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\bin\Debug\daniel gal.exe.config
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\bin\Debug\daniel gal.exe
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\bin\Debug\daniel gal.pdb
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\bin\Debug\daniel gal.xml
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\obj\Debug\daniel gal.vbprojAssemblyReference.cache
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\obj\Debug\daniel_gal.Resources.resources
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\obj\Debug\daniel gal.vbproj.GenerateResource.cache
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\obj\Debug\daniel gal.vbproj.CoreCompileInputs.cache
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\obj\Debug\daniel gal.exe
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\obj\Debug\daniel gal.xml
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\daniel gal\obj\Debug\daniel gal.pdb
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Debug\daniel gal.exe.config
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Debug\daniel gal.exe
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Debug\daniel gal.pdb
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\bin\Debug\daniel gal.xml
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel gal.vbprojAssemblyReference.cache
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel_gal.Form1.resources
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel_gal.Resources.resources
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.GenerateResource.cache
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.CoreCompileInputs.cache
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel gal.exe
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel gal.xml
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel gal.pdb
+E:\daniel gal\daniel gal\bin\Debug\daniel gal.exe.config
+E:\daniel gal\daniel gal\bin\Debug\daniel gal.exe
+E:\daniel gal\daniel gal\bin\Debug\daniel gal.pdb
+E:\daniel gal\daniel gal\bin\Debug\daniel gal.xml
+E:\daniel gal\daniel gal\obj\Debug\daniel gal.vbprojAssemblyReference.cache
+E:\daniel gal\daniel gal\obj\Debug\daniel_gal.Form1.resources
+E:\daniel gal\daniel gal\obj\Debug\daniel_gal.Resources.resources
+E:\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.GenerateResource.cache
+E:\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.CoreCompileInputs.cache
+E:\daniel gal\daniel gal\obj\Debug\daniel gal.exe
+E:\daniel gal\daniel gal\obj\Debug\daniel gal.xml
+E:\daniel gal\daniel gal\obj\Debug\daniel gal.pdb
+D:\daniel gal\daniel gal\bin\Debug\daniel gal.exe.config
+D:\daniel gal\daniel gal\bin\Debug\daniel gal.exe
+D:\daniel gal\daniel gal\bin\Debug\daniel gal.pdb
+D:\daniel gal\daniel gal\bin\Debug\daniel gal.xml
+D:\daniel gal\daniel gal\obj\Debug\daniel gal.vbprojAssemblyReference.cache
+D:\daniel gal\daniel gal\obj\Debug\daniel_gal.Form1.resources
+D:\daniel gal\daniel gal\obj\Debug\daniel_gal.Resources.resources
+D:\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.GenerateResource.cache
+D:\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.CoreCompileInputs.cache
+D:\daniel gal\daniel gal\obj\Debug\daniel gal.exe
+D:\daniel gal\daniel gal\obj\Debug\daniel gal.xml
+D:\daniel gal\daniel gal\obj\Debug\daniel gal.pdb
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel_gal.gameover.resources
+C:\Users\RealProgramming4Kids\source\repos\daniel gal\daniel gal\obj\Debug\daniel_gal.win.resources
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\bin\Debug\daniel gal.exe.config
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\bin\Debug\daniel gal.exe
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\bin\Debug\daniel gal.pdb
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\bin\Debug\daniel gal.xml
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel gal.vbprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel_gal.Form1.resources
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel_gal.gameover.resources
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel_gal.Resources.resources
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel_gal.win.resources
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel gal.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel gal.exe
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel gal.xml
+C:\Users\Daniel\Desktop\daniel gal\daniel gal\obj\Debug\daniel gal.pdb
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\daniel gal.vbproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\daniel gal.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Debug\Happy Birthday!.exe.config
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Debug\Happy Birthday!.exe
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Debug\Happy Birthday!.pdb
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\bin\Debug\Happy Birthday!.xml
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Happy_Birthday_Ethan.Form1.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Happy_Birthday_Ethan.gameover.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Happy_Birthday_Ethan.Resources.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Happy_Birthday_Ethan.win.resources
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Happy Birthday!.exe
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Happy Birthday!.xml
+C:\Users\Daniel\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Happy Birthday!.pdb
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\daniel gal.vbprojAssemblyReference.cache
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\daniel gal.vbproj.GenerateResource.cache
+D:\Desktop\cool game in vb-debug\daniel gal\bin\Debug\DanielGal.exe.config
+D:\Desktop\cool game in vb-debug\daniel gal\bin\Debug\DanielGal.exe
+D:\Desktop\cool game in vb-debug\daniel gal\bin\Debug\DanielGal.pdb
+D:\Desktop\cool game in vb-debug\daniel gal\bin\Debug\DanielGal.xml
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Daniel_WARNING_IMPOSSIBLE_TO_FUCKING_READ.Form1.resources
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Daniel_WARNING_IMPOSSIBLE_TO_FUCKING_READ.gameover.resources
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Daniel_WARNING_IMPOSSIBLE_TO_FUCKING_READ.Resources.resources
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\Daniel_WARNING_IMPOSSIBLE_TO_FUCKING_READ.win.resources
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\DanielGal.exe
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\DanielGal.xml
+D:\Desktop\cool game in vb-debug\daniel gal\obj\Debug\DanielGal.pdb
