@@ -1,0 +1,22 @@
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\bin\Debug\PacMan.xml
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.Form1.resources
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.Resources.resources
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.vbproj.GenerateResource.Cache
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.exe
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.xml
+C:\Users\Daniel Nozdrachev\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\bin\Debug\PacMan.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.exe
+D:\PacMan\PacMan\obj\x86\Debug\PacMan.exe
+D:\PacMan\PacMan\obj\x86\Debug\PacMan.xml
+D:\PacMan\PacMan\obj\x86\Debug\PacMan.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\PacMan\PacMan\obj\x86\Debug\PacMan.vbprojAssemblyReference.cache
