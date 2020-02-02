@@ -1,0 +1,11 @@
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\bin\Debug\jump.exe
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\bin\Debug\jump.pdb
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\bin\Debug\jump.xml
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\jump.Form1.resources
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\jump.Resources.resources
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\jump.exe
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\jump.xml
+C:\Users\Dave DC\AppData\Local\Temporary Projects\jump\obj\x86\Debug\jump.pdb
